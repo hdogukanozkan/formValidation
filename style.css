@@ -1,0 +1,14 @@
+.card {
+    box-shadow: 0px 0px 5px rgb(54, 54, 54);
+}
+
+.error {
+    border: 1px solid red;
+}
+
+@media (max-width:1150px) {
+    .col-7 {
+        padding: 0 1.5rem;
+        flex-basis: 100%
+    }
+}
