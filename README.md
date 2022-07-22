@@ -1,4 +1,4 @@
-## Analog Clock App Demo Link
+## Form Validation App Demo Link
 
 You can view the site here
-[Click Me](https://hdogukanozkan.github.io/ClockAnalog/)
+[Click Me](https://hdogukanozkan.github.io/formValidation/)
